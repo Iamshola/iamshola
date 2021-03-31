@@ -1,19 +1,20 @@
-### Shola Oni-Shogbonyo - https://iamshola.github.io/👋
+### Shola Oni-Shogbonyo (She/Her) - https://iamshola.github.io/ 👋🏾
 
-- Software Engineer | Smart Pension 
+- Front End Engineer | Smart Pension
 
-<!--
-**Iamshola/iamshola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Currently:
+Learning Node.js and TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-  
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Interests
+- Blockchain
+- Cooking and eating good food 
+- Reading African literature 
+- Passionate about finding the perfect meme/gif to describe the moment 
+
+
+### 📫 How to reach me:
+
+[LinkedIn](https://www.linkedin.com/in/adesola-oni-shogbonyo/)
+[Portfolio](https://iamshola.github.io/)
