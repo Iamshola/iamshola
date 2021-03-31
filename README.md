@@ -16,5 +16,5 @@ Learning Node.js and TypeScript
 
 ### 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/adesola-oni-shogbonyo/)
+[LinkedIn](https://www.linkedin.com/in/adesola-oni-shogbonyo/) | 
 [Portfolio](https://iamshola.github.io/)
