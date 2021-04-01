@@ -1,6 +1,6 @@
 ### Shola Oni-Shogbonyo (She/Her) - https://iamshola.github.io/ 👋🏾
 
-- Front End Engineer | Smart Pension
+- Front End Engineer | [Smart Pension](https://www.smart.co/)
 
 
 ### Currently:
